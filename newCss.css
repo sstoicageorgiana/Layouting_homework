@@ -1,0 +1,82 @@
+#main {
+  width: 100%;
+  display: flex;
+  flex-direction: row;
+  margin:auto;
+  padding: 60px;
+  text-align: center;
+  justify-content: space-evenly;
+}
+.left {
+    text-align: center;
+    padding: 50px;
+}
+.center{
+    text-align: center;
+    padding: 50px;
+}
+.right{
+    padding: 50px;
+    text-align: center;
+}
+.fa-star {
+    color: rgb(255, 115, 0);
+    text-align: left;
+    font-size:20px;
+}
+.paragraph{
+     font-size: 20px;
+     color:grey;
+     font-family: 'Nunito', sans-serif;
+     margin-top: 30px;
+     margin-bottom: 30px;
+     
+}
+p{
+    font-size:30px;
+    color:black;
+    font-family: 'Nunito', sans-serif;
+}
+.butt1 {
+    background-color: black;
+    color: white;
+    padding: 13px 32px;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+    font-weight: bold;
+   
+}
+
+.butt2 {
+    margin: 5px 5px;
+ 
+    font-weight: bold;
+    background-color: white;
+    color: black;
+    padding: 13px 32px;
+    cursor: pointer;
+    border: 3px solid black;
+    font-size: 16px;
+    
+}
+
+.imag 
+{
+    width: 600px;
+    height: 600px;
+}
+
+.spanClass{
+    color:rgb(126, 119, 119); font-size:20px;text-align:left;font-family: 'Nunito', sans-serif;
+}
+
+.fa-heart {
+    color: #DCDCDC;
+    text-align: right;
+    font-size:20px;
+    margin-left: 30px;
+}
+.fa-heart:hover {
+    color:rgb(221, 20, 20);
+}
